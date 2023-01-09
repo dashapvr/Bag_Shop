@@ -1,4 +1,4 @@
 # Bag_Shop
 
-![1](https://user-images.githubusercontent.com/112325550/211327368-dc2866e9-cacd-4e52-b829-83dc5a0ea059.jpg)
+![1](https://user-images.githubusercontent.com/112325550/211328199-6b653111-dc4b-44f3-be29-e11ed9778d0f.jpg | width=100)
 
